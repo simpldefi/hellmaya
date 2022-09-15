@@ -1,4 +1,4 @@
-How to read a CSV file in python?
+<h2> How to read a CSV file in python?</h2> <br />
 <a href="https://simpledefinitions.com/abbreviation/csv/">CSV</a> stands for comma-separated values. CSV file contains the .csv extension contain a collection of comma-separated values used to store data.
 
 Ways to read CSV file:

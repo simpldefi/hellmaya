@@ -7,11 +7,11 @@
 
 <p>with open("./bwq.csv", 'r') as file:</p>
 <p>csvreader = csv.reader(file) </p>
-<p>  for row in csvreader: </p>
-<p> print(row)</p>
+<p>for row in csvreader: </p>
+<p>print(row)</p>
 
 <b>2. Using Pands Library</b>
 
-import pandas as pd
-data = pd.read_csv("bwq.csv")
-data
+<p>import pandas as pd </p>
+<p>data = pd.read_csv("bwq.csv")</p>
+<p>data</p>
